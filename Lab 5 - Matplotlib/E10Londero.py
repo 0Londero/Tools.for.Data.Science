@@ -10,6 +10,7 @@ plt.annotate('Min Value', xy=(min(x),min(y)), xycoords='data')
 plt.annotate('Max Value', xy=(max(x),max(y)), xycoords='data')
 plt.show()
 
+
 """
 def annotate(
     text: str,

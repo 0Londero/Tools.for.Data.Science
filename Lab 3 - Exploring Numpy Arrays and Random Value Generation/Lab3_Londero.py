@@ -1,5 +1,6 @@
 import numpy as np
 import numpy.random
+
 print(r"""
 .____          ___.     _______  ________  
 |    |   _____ \_ |__   \   _  \ \_____  \ 

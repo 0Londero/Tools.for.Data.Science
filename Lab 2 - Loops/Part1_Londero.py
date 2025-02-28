@@ -12,6 +12,7 @@ way to fetch the 1st digit of this number (which is 6), or 2nd (which is 5), or 
 etc. using some equation that involves the values of "number" and "n".
 """
 
+
 print("This program will show the desire decimal number, from the right, to the left of the preference number")
 
 number = int(input("Please, enter the number to find the nth digit of:      "))

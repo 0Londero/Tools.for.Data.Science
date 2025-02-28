@@ -16,7 +16,6 @@ print(" ", end="")
 print("*", end="")
 """
 
-
 n = int(input("# rows: "))  # Input the rows
 #________EXAMPLE__________
 for i in range(1, n + 1):
